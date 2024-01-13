@@ -38,6 +38,7 @@ Emergency Contact
    1.  In this project the healthRecord entity add the health,like metric,bloodPressuer,heartRate,some notes and we post to save the data and also fetch the data 
    2.  the MedicationReminder are two alert the MedicationName and Doses
    3.   Contact are two call the emergency call
+   4.   I'm also using third-party intrigation ModelMapper.
      
 
 ## Getting Started
